@@ -1,0 +1,9 @@
+{
+	"name": "bman",
+	"version": "0.1",
+	"description": "View BSD man pages",
+	"manifest_version": 2,
+	"browser_action": {
+		"default_popup": "popup.html"
+	}
+}
